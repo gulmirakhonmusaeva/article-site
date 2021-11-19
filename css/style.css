@@ -97,7 +97,7 @@ img {
     font-family: var(--bebas),var(--roboto),sans-serif;
     line-height: normal;
     letter-spacing: 2px;
-    color:rgba(255, 217, 45, 0.986);
+    color:rgb(252, 252, 252);
     text-transform: uppercase;
 
 }
